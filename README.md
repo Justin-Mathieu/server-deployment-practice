@@ -10,9 +10,9 @@ ci/cd deployment practice with basic server.
 
 ## Links and Resources  
 
-![GitHub Actions ci/cd]()  
-![back-end dev server url]()  
-![back-end prod server url]()  
+[GitHub Actions ci/cd](https://github.com/Justin-Mathieu/server-deployment-practice/actions)  
+[back-end dev server url](https://server-deployment-dev.onrender.com)  
+[back-end prod server url](https://server-deployment-prod-1cnq.onrender.com)  
 
 ## Collaborators
 
@@ -38,3 +38,5 @@ How to initialize/run your application (where applicable)
 - Run the command npm test with dsependencies installed.  
 
 ## UML  
+
+![UML](./assets/Lab01UML.png)
